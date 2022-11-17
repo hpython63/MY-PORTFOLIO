@@ -8,9 +8,20 @@ body {
   font-weight: 300;
 }
 
+.abt-myself {
+  text-align: justify;
+  font-size: 1.2rem;
+  width: 50%;
+  margin-left: 10%;
+}
+
 .first-info {
   text-align: center;
   font-weight: bold;
+}
+
+.footer-info {
+  color: #DDDDDD;
 }
 
 .colored-section {
@@ -101,6 +112,10 @@ body {
   font-weight: bold;
 }
 
+.extra-container {
+  padding: 5% 20%;
+}
+
 #bottom-text {
   text-align: center;
   font-weight: 700;
@@ -126,4 +141,10 @@ body {
 .main-heading {
   font-size: 4rem;
   padding-bottom: 20px;
+}
+
+.image-code {
+  float: right;
+  width: 25%;
+  margin-right: 10%;
 }
