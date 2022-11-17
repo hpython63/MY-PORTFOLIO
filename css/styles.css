@@ -1,0 +1,129 @@
+h1 {
+  font-family: "Comfortaa";
+  font-weight: 700;
+}
+
+body {
+  font-family: "Comfortaa";
+  font-weight: 300;
+}
+
+.first-info {
+  text-align: center;
+  font-weight: bold;
+}
+
+.colored-section {
+  background-color: #222831;
+  color: #DDDDDD;
+  padding-bottom: 10px;
+}
+
+.work-details {
+  padding-top: 60px;
+  padding-left: 100px;
+  text-align: left;
+  margin: 0;
+}
+
+.edu-details {
+  padding-top: 60px;
+  padding-left: 100px;
+  text-align: left;
+  margin: 0;
+}
+
+.work-main {
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+.cr-text {
+  padding-top: 20px;
+  font-size: 0.7rem;
+  color: #DDDDDD;
+}
+
+.edu-main {
+  font-weight: 700;
+  font-size: 3rem;
+}
+
+.edu-sub {
+  font-size: 300;
+  font-size: 1.5rem;
+}
+
+#footer {
+  text-align: center;
+}
+
+.disc {
+  padding-top: 20px;
+}
+
+.disc-link {
+  color: #DDDDDD;
+}
+
+.footer-link {
+  color: #DDDDDD;
+  margin: 20px;
+}
+
+.work-sub {
+  font-size: 300;
+  font-size: 1.5rem;
+}
+
+.white-section {
+  background-color: #30475E;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-container {
+  position: relative;
+  padding: 205px 100px 203px;
+}
+
+.middle-container {
+  padding: 236px 0 236px;
+  color: #DDDDDD;
+  text-align: center;
+}
+
+.bottom-container {
+  padding: 100px 0 50px;
+  background-color: #F05454;
+  font-weight: bold;
+}
+
+#bottom-text {
+  text-align: center;
+  font-weight: 700;
+  padding-bottom: 30px;
+  color: #DDDDDD;
+}
+
+.feature-box {
+  line-height: 3rem;
+  font-size: 20px;
+}
+
+.navbar {
+  color: #000;
+  padding: 20px;
+}
+
+.basic-info {
+  padding-bottom: 3px;
+  font-size: 1.5rem;
+}
+
+.main-heading {
+  font-size: 4rem;
+  padding-bottom: 20px;
+}
