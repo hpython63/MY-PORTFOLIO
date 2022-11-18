@@ -1,0 +1,165 @@
+h1 {
+  font-family: "Comfortaa";
+  font-weight: 700;
+}
+
+body {
+  font-family: "Comfortaa";
+  font-weight: 300;
+}
+
+.abt-myself {
+  text-align: justify;
+  font-size: 120%;
+  width: 50%;
+  padding-left: 10%;
+}
+
+.first-info {
+  text-align: center;
+}
+
+.footer-info {
+  color: #DDDDDD;
+}
+
+.colored-section {
+  background-color: #222831;
+  color: #DDDDDD;
+  padding-bottom: 5%;
+}
+
+.work-details {
+  padding-top: 4%;
+  padding-left: 5%;
+  text-align: left;
+  margin: 0;
+}
+
+.edu-details {
+  padding-top: 4%;
+  padding-left: 5%;
+  text-align: left;
+  margin: 0;
+}
+
+.work-main {
+  font-weight: 700;
+  font-size: 200%;
+}
+
+.cr-text {
+  padding-top: 5%;
+  font-size: 70%;
+  color: #DDDDDD;
+}
+
+.edu-main {
+  font-weight: 700;
+  font-size: 300%;
+}
+
+.edu-sub {
+  font-weight: 300;
+  font-size: 150%;
+}
+
+#footer {
+  text-align: center;
+}
+
+.disc {
+  padding-top: 5%;
+}
+
+.disc-link {
+  color: #DDDDDD;
+}
+
+.footer-link {
+  color: #DDDDDD;
+  margin: 3%;
+}
+
+.work-sub {
+  font-size: 300;
+  font-size: 150%;
+}
+
+.white-section {
+  background-color: #30475E;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-container {
+  position: relative;
+  padding: 22% 22%;
+}
+
+.middle-container {
+  padding: 15% 15%;
+  color: #DDDDDD;
+  text-align: center;
+}
+
+.bottom-container {
+  padding: 5% 3%;
+  background-color: #F05454;
+  font-weight: bold;
+}
+
+.extra-container {
+  padding-top: 15%;
+  padding-bottom: 15%;
+}
+
+#bottom-text {
+  text-align: center;
+  font-weight: 700;
+  padding-bottom: 30px;
+  color: #DDDDDD;
+}
+
+.feature-box {
+  line-height: 300%;
+  font-size: 120%;
+}
+
+.navbar {
+  color: #000;
+}
+
+.basic-info {
+  padding-bottom: 1%;
+  font-size: 150%;
+}
+
+.main-heading {
+  font-size: 400%;
+  padding-bottom: 1%;
+}
+
+.image-code {
+  width: 20%;
+  height: 30%;
+  position: absolute;
+  padding-left: 2%;
+  margin-left: 5%;
+}
+
+@media (max-width: 1028px) {
+  .image-code {
+    position: static;
+    width: 100%;
+    padding-bottom: 3%;
+  }
+
+  .abt-myself {
+    text-align: justify;
+    width: 100%;
+  }
+
+}
